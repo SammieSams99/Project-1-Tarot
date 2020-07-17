@@ -13,4 +13,4 @@ The center of the page is empty but down at the bottom theres a row of cards spr
 
 Upon Click: When the player clicks on the “Choose Your Daily Card” button the cards on the bottom of the page disappear then a single card is brought to the empty space in the center of the screen and flipped around. It displays the players daily card and a snippet of what the card can be interpreted as/ where it might be helpful in life floats underneath.
 
-There is no score to keep track of in this “game” and it is not timed. Its purpose it to provoke thought and conversation. 
+There is no score to keep track of in this “game” and it is not timed. Its purpose it to provoke thought and conversation surrounding mental health and wellness.  
